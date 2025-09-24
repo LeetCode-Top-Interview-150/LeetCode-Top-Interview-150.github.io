@@ -1699,8 +1699,8 @@
 
 ## Algorithms
 
-| #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
-|------|----------------|-------------|-------------|----------|--------
+| #    |      Title     | Language  | Difficulty  | Tag         | Time, ms | Time, %
+|------|----------------|-----------|-------------|-------------|----------|---------
 | 0918 |Maximum Sum Circular Subarray| [Java](src/main/java/g0901_1000/s0918_maximum_sum_circular_subarray) [Kotlin](src/main/kotlin/g0901_1000/s0918_maximum_sum_circular_subarray) [TypeScript](src/main/ts/g0901_1000/s0918_maximum_sum_circular_subarray) [C#](src/main/csharp/g0901_1000/s0918_maximum_sum_circular_subarray) [Go](src/main/go/g0901_1000/s0918_maximum_sum_circular_subarray) [Python](src/main/python/g0901_1000/s0918_maximum_sum_circular_subarray)| Medium | Array, Dynamic_Programming, Divide_and_Conquer, Queue, Monotonic_Queue, Dynamic_Programming_I_Day_5, Top_Interview_150_Kadane's_Algorithm | 2 | 99.34
 | 0909 |Snakes and Ladders| [Java](src/main/java/g0901_1000/s0909_snakes_and_ladders) [Kotlin](src/main/kotlin/g0901_1000/s0909_snakes_and_ladders) [TypeScript](src/main/ts/g0901_1000/s0909_snakes_and_ladders) [C#](src/main/csharp/g0901_1000/s0909_snakes_and_ladders) [Go](src/main/go/g0901_1000/s0909_snakes_and_ladders) [Python](src/main/python/g0901_1000/s0909_snakes_and_ladders)| Medium | Array, Breadth_First_Search, Matrix, Top_Interview_150_Graph_BFS | 4 | 95.81
 | 0637 |Average of Levels in Binary Tree| [Java](src/main/java/g0601_0700/s0637_average_of_levels_in_binary_tree) [Kotlin](src/main/kotlin/g0601_0700/s0637_average_of_levels_in_binary_tree) [TypeScript](src/main/ts/g0601_0700/s0637_average_of_levels_in_binary_tree) [C#](src/main/csharp/g0601_0700/s0637_average_of_levels_in_binary_tree) [Go](src/main/go/g0601_0700/s0637_average_of_levels_in_binary_tree) [Python](src/main/python/g0601_0700/s0637_average_of_levels_in_binary_tree)| Easy | Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Top_Interview_150_Binary_Tree_BFS | 2 | 94.34
